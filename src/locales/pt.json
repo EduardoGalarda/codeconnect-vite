@@ -1,0 +1,24 @@
+{
+  "page.home": "Home",
+  "page.about": "About",
+  "page.contact": "Contact",
+  "english": "Inglês",
+  "spanish": "Espanhol",
+  "portuguese": "Português",
+  "language": "idioma",
+  "alert.login": "Logado com sucesso.",
+  "alert.rescue": "Você receberá instruções para recuperar sua senha.",
+  "login.title": "CodeConnect",
+  "login.subtitle": "Bem-vindo - Faça seu Login",
+  "user.label": "usuário ou e-mail",
+  "user.placeholder": "digite seu usuário ou e-mail",
+  "password.label": "senha",
+  "password.placeholder": "digite sua senha",
+  "login.remember": "Lembrar",
+  "login.forgot": "Esqueci a senha",
+  "login.login": "Entrar",
+  "login.options": "ou entre com outras contas",
+  "login.question": "Ainda nāo tem uma conta?",
+  "login.create": "Crie seu cadastro"
+  }
+  

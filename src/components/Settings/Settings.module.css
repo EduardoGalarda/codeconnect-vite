@@ -1,0 +1,32 @@
+
+nav{
+    display: flex;
+    justify-content: end;
+    margin-right: 7%;
+    width: 140px;
+}
+
+nav li{
+    display: inline-block; 
+}
+
+nav li a{
+    display: inline-block;
+    text-decoration: none;
+    padding:5px 15px;
+    color: var(--offwhite);
+    font-family: var(--font);
+    font-size: 1rem;
+    cursor: default;
+    margin-top: 17px;
+    margin-right: 1rem;
+}
+
+.dropdownMenu{
+    position: absolute;
+    display: none;
+}
+
+.dropdown:hover .dropdownMenu{
+    display: block;
+}

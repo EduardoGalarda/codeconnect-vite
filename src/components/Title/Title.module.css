@@ -1,0 +1,8 @@
+
+.title {
+    font-family: var(--font);
+    font-size: 31px;
+    font-weight: 600;
+    text-align: center;
+    color: var(--light-blue);
+}
