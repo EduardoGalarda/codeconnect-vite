@@ -14,7 +14,7 @@
     color: var(--offwhite);
 }
 
-.checkbox label {
+.checkbox .label {
     cursor: pointer;
     position: absolute;
     left: -1px;
