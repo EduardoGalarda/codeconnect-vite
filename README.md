@@ -1,4 +1,28 @@
 
+## CodeConnect
+
+A fictional social network for developers called CodeConnect for the React course: components and JSX.
+
+##  Project Features
+
+In this project, the CodeConnect login page was developed, containing an image, an email and password form with titles and texts, a button to enter the application, links to remember the password or register.
+
+## ✔️ Techniques and technologies used
+
+The techniques and technologies used for this are:
+
+- `React`: JavaScript library for building user interfaces.
+- `React-DOM`: Package that allows React to integrate with the DOM element tree.
+- `JSX`: A syntax extension for JavaScript used in React, which allows HTML/XML code to be written declaratively and integrated within JavaScript.
+- `Componentization`: Design approach where the user interface is divided into reusable and independent components.
+- `Props`: Data passed from a parent component to a child component in React.
+- `useState`: Hook in React that allows adding state to functional components.
+- `Event handling`: Action of responding to user interactions, such as clicks and keystrokes, in web applications.
+
+---
+---
+---
+
 
 # CodeConnect
 
