@@ -44,3 +44,9 @@ As técnicas e tecnologias utilizadas pra isso são:
 - `useState`: Hook no React que permite adicionar estado a componentes funcionais.
 - `Manipulação de eventos`: Ação de responder a interações do usuário, como cliques e teclas pressionadas, em aplicações web.
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](file:///Users/eduardomanasses/Desktop/Project_Antogravity/codeconnect-vite/LICENSE) file for details.
+
+© 2026 Eduardo Manasses
+
